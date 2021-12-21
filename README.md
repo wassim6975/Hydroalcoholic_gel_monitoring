@@ -19,14 +19,18 @@ Use Android Studio
 
 ## Examples 
 
-- When you start the app 
+### When you start the ap 
+
 ![Alt text](./imgExample/WhenYouStart.png?raw=true "When you start the app")
 
-- When you receive a message
+### When you receive a message
+
 ![Alt text](./imgExample/WhenYouSend.png?raw=true "When you receive a message")
 
-- When you refresh (to get the data)
+### When you refresh (to get the data)
+
 ![Alt text](./imgExample/Refresh1.png?raw=true "When you refresh")
 
-- When you you receive an other message and refresh 
+### When you you receive an other message and refresh 
+
 ![Alt text](./imgExample/RefreshWithOtherData.png?raw=true "When you change the data and then refresh")
