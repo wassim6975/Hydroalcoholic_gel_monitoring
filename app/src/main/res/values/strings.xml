@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ProjetGelHydroalcoolique</string>
+    <string name="activityTitle">Informations gel hydroalcoolique</string>
+    <string name="textViewResponse1">...</string>
+    <string name="textViewResponse2">...</string>
+
+    <string name="buttonRequest">Raffraichissement</string>
+    <string name="titleContentSms">Contenu du sms</string>
+    <string name="contentTextSms">...</string>
+    <string name="smsInputV">4500</string>
+    <string name="smsInputT">500</string>
+    <string name="smsInputTm">240</string>
+    <string name="smsTextV">V=</string>
+    <string name="smsTextT">T=</string>
+    <string name="smsTextTm">Tm=</string>
+    <string name="mv">mV</string>
+    <string name="buttonSendSms">Envoyer</string>
+    <string name="titlebatLevel">batLevel</string>
+    <string name="titlegelLevel">gelLevel</string>
+    <string name="phoneNumber">15555215554</string>
+    <string name="phoneNumberTitle">N°</string>
+
+
+</resources>
