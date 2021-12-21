@@ -19,7 +19,7 @@ Use Android Studio
 
 ## Examples 
 
-### When you start the ap 
+### When you start the app 
 
 ![Alt text](./imgExample/WhenYouStart.png?raw=true "When you start the app")
 
@@ -31,6 +31,6 @@ Use Android Studio
 
 ![Alt text](./imgExample/Refresh1.png?raw=true "When you refresh")
 
-### When you you receive an other message and refresh 
+### When you receive an other message and refresh 
 
 ![Alt text](./imgExample/RefreshWithOtherData.png?raw=true "When you change the data and then refresh")
