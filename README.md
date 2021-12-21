@@ -1,4 +1,4 @@
-# Information Hydrialcoholic Gel 
+# Information Hydroalcoholic Gel 
 
 ## Informations
 
@@ -19,13 +19,14 @@ Use Android Studio
 
 ## Examples 
 
+- When you start the app 
 ![Alt text](./imgExample/WhenYouStart.png?raw=true "When you start the app")
 
+- When you receive a message
+![Alt text](./imgExample/WhenYouSend.png?raw=true "When you receive a message")
 
-![Alt text](./imgExample/WhenYouSend.png?raw=true "When you send a message")
+- When you refresh (to get the data)
+![Alt text](./imgExample/Refresh1.png?raw=true "When you refresh")
 
-
-![Alt text](./imgExample/Refresh1.png?raw=true "When yo refresh")
-
-
+- When you you receive an other message and refresh 
 ![Alt text](./imgExample/RefreshWithOtherData.png?raw=true "When you change the data and then refresh")
